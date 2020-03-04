@@ -20,6 +20,10 @@
     "dev": "rollup -c ./build/rollup.dev.config.js -w",
     "build": "rollup -c ./build/rollup.bundle.config.js"
   },
+  "files":[
+    "lib",
+    "README.md"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/haizlin/h-regular"

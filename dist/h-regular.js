@@ -23,7 +23,11 @@ exports.url = /^https?:\/\/(([a-zA-Z0-9_-])+(\.)?)*(:\d+)?(\/((\.)?(\?)?=?&?[a-z
 
 exports.uri = /[a-zA-z]+:\/\/[^\s]*/; // 匹配双字节字符(包括汉字在内, 一个双字节字符长度计2，ASCII字符计1)
 
-exports.doubleCharacter = /[^\x00-\xff]/; // 中文
+exports.doubleCharacter = /[^\x00-\xff]/; // ASCII
+
+exports.ascii = /\x20-\x7f/; // GBK下的中文
+
+exports.gbkChina = /\xa1-\xff/; // 中文
 
 exports.china = /[\u4E00-\u9FA5]/; // Unicode编码中的汉字范围
 
