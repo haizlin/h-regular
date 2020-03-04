@@ -1,6 +1,6 @@
 {
   "name": "h-regular",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "在日常js开发中积累的112个正则表达式，适用于浏览器和Node环境",
   "main": "dist/h-regular.js",
   "dependencies": {},
@@ -24,7 +24,18 @@
     "type": "git",
     "url": "https://github.com/haizlin/h-regular"
   },
-  "keywords": ["regular","RegExp","Pattern","Match","正则","正则表达式","正则校验","身份证号正则","密码正则","邮箱正则"],
+  "keywords": [
+    "regular",
+    "RegExp",
+    "Pattern",
+    "Match",
+    "正则",
+    "正则表达式",
+    "正则校验",
+    "身份证号正则",
+    "密码正则",
+    "邮箱正则"
+  ],
   "author": "浪子神剑",
   "license": "MIT"
 }
