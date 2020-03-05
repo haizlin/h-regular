@@ -1,8 +1,8 @@
 ## 常用正则表达式
 
-* **作者**：浪子神剑
-* **邮箱**：<80285586@qq.com> 
-* **介绍**：在日常js开发中积累的一些正则表达式，适用于浏览器和Node环境，欢迎大家提PR补充
+> 在日常js开发中积累的一些正则表达式，适用于浏览器和Node环境，欢迎大家提PR补充
+
+* 交流讨论：维护了一个正则交流微信群（只讨论正则相关），欢迎加入讨论，微信关注公众号：**前端剑解**，点击公众号的菜单：进群交流，并备注“正则”即可入群
 
 ### 安装
 ```javascript
@@ -998,8 +998,18 @@ console.log(email)
 ### 版本
 * v0.1: 初始化项目，添加了112个常用正则，js版本调用模块，有些正则是网上找到的，未找到出处，在此感谢那些作者
 
+## 项目骨干
+- [qq674785876](https://github.com/qq674785876)
+- [undefinedYu](https://github.com/undefinedYu)
+- [qingleizhang123](https://github.com/qingleizhang123)
+- [yxkhaha](https://github.com/yxkhaha)
+- [zhaoqian0901](https://github.com/zhaoqian0901)
+
 ## 贡献
 欢迎大家到**Issues**交流或通过提交**PR**的形式对本项目进行贡献
+<p align="center">
+    <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
+</p>
 
 ## License
 [![MIT](http://api.haizlin.cn/api?mod=interview&ctr=issues&act=generateSVG&type=regular)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
