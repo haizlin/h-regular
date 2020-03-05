@@ -1009,4 +1009,4 @@ console.log(email)
 欢迎大家到**Issues**交流或通过提交**PR**的形式对本项目进行贡献
 
 ## License
-[![MIT](http://api.haizlin.cn/api?mod=interview&ctr=issues&act=generateSVG&type=regular)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
+[![MIT](http://api.haizlin.cn/api?mod=interview&ctr=issues&act=generateSVG&type=regular)](https://github.com/haizlin/h-regular)
